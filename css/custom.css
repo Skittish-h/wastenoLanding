@@ -1,0 +1,204 @@
+h1 {
+  text-align: center;
+  font-family: fatboi;
+  font-weight: 700;
+  font-size: 60px;
+  padding: 20px;
+
+}
+p {
+  padding: 10px;
+  text-align: center;
+  font-family: lightboi;
+  font-weight: 300;
+  margin-left: 20%;
+  margin-right: 20%;
+  font-size: 20px;
+}
+h2 {
+  padding: 10px;
+  text-align: center;
+  font-family: fatboi;
+  font-size: 34px;
+  font-weight: 700;
+
+}
+.col {
+  padding: 0px;
+}
+.riesenie-txt {
+  font-family: fatboi;
+  color: white;
+  font-size: 500%;
+  text-align: left;
+  margin: 50px;
+  margin-top: 15%;
+}
+hr {
+    max-width: 100px;
+    border-width: 20px;
+    border-color: #f05f40;
+    margin: 0px;
+    margin-left: 10%;
+    border-radius: 10px 10px 10px 10px;
+}
+section {
+  background-color: #51c0d3;
+  padding-bottom: 5%;
+}
+section.split {
+  padding-bottom: 0%;
+}
+.mid-number {
+  text-align: center;
+  position: relative;
+  right: 50%;
+  margin:auto;
+  font-family: fatboi;
+  background-color: #417505;
+  padding: 1%;
+  color: white;
+}
+h1.problem-head {
+  color: #003038;
+  text-align: left;
+  font-family: lightboi;
+  font-size: 40px;
+  padding-bottom: 40px;
+}
+h1.riesenie-head {
+  color: #003038;
+  text-align: right;
+  font-family: lightboi;
+  font-size: 40px;
+  padding-bottom: 0px;
+}
+section.green {
+  background-color: #8bc673;
+
+}
+nav {
+  background-color: #d9e3cd;
+  color: #417505;
+}
+header {
+  background-color: #d9e3cd;
+  color: #417505;
+  padding: 30px;
+}
+@font-face {
+    font-family: myFirstFont;
+    src: url(fonts/title.ttf);
+}
+@font-face {
+    font-family: lightboi;
+    src: url(fonts/AvenirLTStd-Book.otf);
+}
+@font-face {
+    font-family: fatboi;
+    src: url(fonts/AEH.ttf);
+}
+#problem-txt {
+  font-family: fatboi;
+  color: white;
+  font-size: 500%;
+  text-align: left;
+  margin: 0px;
+  margin-top: 15%;
+}
+.arrow {
+  padding-left: 20px;
+  width: 100px;
+}
+.navbar-brand {
+  font-family: myFirstFont;
+  font-weight: bolder;
+  color: #417505;
+  font-size: 80px;
+  padding-left: 200px;
+}
+.nav-link {
+  font-family: lightboi;
+  font-weight: lighter;
+  font-size: 20px;
+  color: #417505;.
+}
+.row {
+  padding-top: 50px;
+}
+.row-split {
+  padding: 0px;
+}
+.nav-item {
+  padding-left: 100px;
+}
+.button-filled {
+    border: 5px solid;
+    border-color: #d0141b;
+    border-radius: 25px;
+    background-color: #d0141b;
+    color: white;
+    font-family: fatboi;
+    font-weight: bold;
+    font-size: 25px;
+
+}
+.tomato {
+
+  padding: 20px;
+  padding-top: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.button-empty {
+    border: 5px solid;
+    border-color: #d0141b;
+    border-radius: 25px;
+    background-color: Transparent;
+    color: #d0141b;
+    font-family: fatboi;
+    font-weight: bold;
+    font-size: 25px;
+}
+.img-half {
+
+}
+#nav-last {
+  padding-right: 200px;
+}
+#pizza {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+  padding: 20px;
+  transform: rotate(180deg);
+
+}
+.split-txt {
+  font-family: fatboi;
+  font-weight: lighter;
+  font-size: 200%;
+  padding-left: 10%;
+  text-align: left;
+  margin: 0px;
+}
+.split-head {
+  font-family: fatboi;
+  color: #417505;
+  font-size: 700%;
+  text-align: left;
+  padding-left: 10%;
+  margin-top: 20%;
+}
+.divider-short {
+
+}
+.split {
+  background-color: white;
+}
+#header-buttons {
+  text-align: center;
+  margin: 0 auto;
+  width: 100%;
+}

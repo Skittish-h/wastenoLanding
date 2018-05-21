@@ -125,42 +125,42 @@ header {
   color: #417505;.
 }
 .row {
-  padding-top: 50px;
+  padding-top: 1%;
 }
 .row-split {
   padding: 0px;
 }
 .nav-item {
-  padding-left: 100px;
+  padding-left: 15%;
 }
 .button-filled {
     border: 5px solid;
     border-color: #d0141b;
-    border-radius: 25px;
+    border-radius: 2rem;
     background-color: #d0141b;
     color: white;
     font-family: fatboi;
     font-weight: bold;
-    font-size: 25px;
+    font-size: 2rem;
 
 }
 .tomato {
 
-  padding: 20px;
-  padding-top: 100px;
+  padding: 5%;
+  padding-top: 10%;
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 .button-empty {
-    border: 5px solid;
+    border: 0.5rem solid;
     border-color: #d0141b;
-    border-radius: 25px;
+    border-radius: 2rem;
     background-color: Transparent;
     color: #d0141b;
     font-family: fatboi;
     font-weight: bold;
-    font-size: 25px;
+    font-size: 2rem;
 }
 .img-half {
 

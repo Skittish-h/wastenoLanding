@@ -57,7 +57,7 @@ section.split {
   margin:auto;
   font-family: fatboi;
   background-color: #417505;
-  padding: 1%;
+  padding: 3%;
   color: white;
 }
 @media (max-width: 1199.98px) {
@@ -134,7 +134,11 @@ header {
   color: #417505;.
 }
 .row {
-  padding-top: 1%;
+
+}
+.col {
+  padding: 0px;
+  width: 50%;
 }
 .row-split {
   padding: 0px;
@@ -153,6 +157,7 @@ header {
     font-size: 2rem;
 
 }
+
 .tomato {
 
   padding: 5%;
@@ -172,7 +177,7 @@ header {
     font-size: 2rem;
 }
 .img-half {
-
+  max-width: 100%;
 }
 #nav-last {
   padding-right: 200px;

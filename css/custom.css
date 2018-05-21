@@ -60,6 +60,15 @@ section.split {
   padding: 1%;
   color: white;
 }
+@media (max-width: 1199.98px) {
+   html {font-size: 70%;}
+}
+@media (max-width: 1199.98px) {
+   html {font-size: 70%;}
+}
+@media (max-width: 1199.98px) {
+   html {font-size: 70%;}
+}
 h1.problem-head {
   color: #003038;
   text-align: left;

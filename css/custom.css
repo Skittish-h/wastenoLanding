@@ -63,11 +63,11 @@ section.split {
 @media (max-width: 1199.98px) {
    html {font-size: 70%;}
 }
-@media (max-width: 1199.98px) {
-   html {font-size: 70%;}
+@media (max-width: 1410px) {
+   html {font-size: 80%;}
 }
-@media (max-width: 1199.98px) {
-   html {font-size: 70%;}
+@media (max-width: 1310px) {
+   html {font-size: 75%;}
 }
 h1.problem-head {
   color: #003038;

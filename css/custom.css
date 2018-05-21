@@ -2,18 +2,19 @@ h1 {
   text-align: center;
   font-family: fatboi;
   font-weight: 700;
-  font-size: 60px;
-  padding: 20px;
+  font-size: 6rem;
+  padding: 1%;
+  padding-top: 10%;
 
 }
 p {
-  padding: 10px;
+  padding: 2%;
   text-align: center;
   font-family: lightboi;
   font-weight: 300;
   margin-left: 20%;
   margin-right: 20%;
-  font-size: 20px;
+  font-size: 1.5rem;
 }
 h2 {
   padding: 10px;
@@ -29,14 +30,14 @@ h2 {
 .riesenie-txt {
   font-family: fatboi;
   color: white;
-  font-size: 500%;
+  font-size: 3.5rem;
   text-align: left;
-  margin: 50px;
+  margin: 7%;
   margin-top: 15%;
 }
 hr {
-    max-width: 100px;
-    border-width: 20px;
+    max-width: 2rem;
+    border-width: 10px;
     border-color: #f05f40;
     margin: 0px;
     margin-left: 10%;
@@ -63,14 +64,14 @@ h1.problem-head {
   color: #003038;
   text-align: left;
   font-family: lightboi;
-  font-size: 40px;
-  padding-bottom: 40px;
+  font-size: 3rem;
+  padding-bottom: 2rem;
 }
 h1.riesenie-head {
   color: #003038;
   text-align: right;
   font-family: lightboi;
-  font-size: 40px;
+  font-size: 3rem;
   padding-bottom: 0px;
 }
 section.green {
@@ -84,7 +85,7 @@ nav {
 header {
   background-color: #d9e3cd;
   color: #417505;
-  padding: 30px;
+  padding: 2rem;
 }
 @font-face {
     font-family: myFirstFont;
@@ -101,7 +102,7 @@ header {
 #problem-txt {
   font-family: fatboi;
   color: white;
-  font-size: 500%;
+  font-size: 4rem;
   text-align: left;
   margin: 0px;
   margin-top: 15%;
@@ -114,13 +115,13 @@ header {
   font-family: myFirstFont;
   font-weight: bolder;
   color: #417505;
-  font-size: 80px;
-  padding-left: 200px;
+  font-size: 10rem;
+  padding-left: 10%;
 }
 .nav-link {
   font-family: lightboi;
   font-weight: lighter;
-  font-size: 20px;
+  font-size: 2rem;
   color: #417505;.
 }
 .row {
